@@ -1,2 +1,2 @@
-FROM nodejs:alpine
+FROM node:alpine
 RUN npm install -g yaml-lint
